@@ -7,7 +7,7 @@
 #include <QThreadPool>
 #include <QGuiApplication>
 #include <QQmlApplicationEngine>
-
+ 
 using namespace std;
 
 // 系统信息类型枚举类
